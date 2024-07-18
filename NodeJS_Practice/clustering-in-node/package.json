@@ -1,0 +1,22 @@
+{
+  "name": "clustering-in-node",
+  "version": "1.0.0",
+  "description": "Simple express server with clustering",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "clustering",
+    "express",
+    "multi-processing"
+  ],
+  "author": "Adarsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
